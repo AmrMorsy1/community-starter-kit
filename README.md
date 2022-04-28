@@ -9,3 +9,6 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 I'll meet you over there, can't wait to get started!
+
+
+Protip If you are working in a public repository, GitHub has created a helpful Community profile in the insights tab. The Community profile has helpful quick-links to complete many of the tasks in this course.
